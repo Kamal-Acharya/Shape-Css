@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/https//Kamal-Acharya.github.io/Shape-Css/static/css/main.78f9cb67.chunk.css",
-    "main.js": "/https//Kamal-Acharya.github.io/Shape-Css/static/js/main.39564eb4.chunk.js",
-    "main.js.map": "/https//Kamal-Acharya.github.io/Shape-Css/static/js/main.39564eb4.chunk.js.map",
-    "runtime-main.js": "/https//Kamal-Acharya.github.io/Shape-Css/static/js/runtime-main.aa8f9998.js",
-    "runtime-main.js.map": "/https//Kamal-Acharya.github.io/Shape-Css/static/js/runtime-main.aa8f9998.js.map",
-    "static/js/2.80f2fb77.chunk.js": "/https//Kamal-Acharya.github.io/Shape-Css/static/js/2.80f2fb77.chunk.js",
-    "static/js/2.80f2fb77.chunk.js.map": "/https//Kamal-Acharya.github.io/Shape-Css/static/js/2.80f2fb77.chunk.js.map",
-    "index.html": "/https//Kamal-Acharya.github.io/Shape-Css/index.html",
-    "static/css/main.78f9cb67.chunk.css.map": "/https//Kamal-Acharya.github.io/Shape-Css/static/css/main.78f9cb67.chunk.css.map",
-    "static/js/2.80f2fb77.chunk.js.LICENSE.txt": "/https//Kamal-Acharya.github.io/Shape-Css/static/js/2.80f2fb77.chunk.js.LICENSE.txt",
-    "static/media/Parallelogram.424a77eb.jpg": "/https//Kamal-Acharya.github.io/Shape-Css/static/media/Parallelogram.424a77eb.jpg",
-    "static/media/logo.6ce24c58.svg": "/https//Kamal-Acharya.github.io/Shape-Css/static/media/logo.6ce24c58.svg"
+    "main.css": "/shape-css/static/css/main.78f9cb67.chunk.css",
+    "main.js": "/shape-css/static/js/main.39564eb4.chunk.js",
+    "main.js.map": "/shape-css/static/js/main.39564eb4.chunk.js.map",
+    "runtime-main.js": "/shape-css/static/js/runtime-main.5a5eb810.js",
+    "runtime-main.js.map": "/shape-css/static/js/runtime-main.5a5eb810.js.map",
+    "static/js/2.80f2fb77.chunk.js": "/shape-css/static/js/2.80f2fb77.chunk.js",
+    "static/js/2.80f2fb77.chunk.js.map": "/shape-css/static/js/2.80f2fb77.chunk.js.map",
+    "index.html": "/shape-css/index.html",
+    "static/css/main.78f9cb67.chunk.css.map": "/shape-css/static/css/main.78f9cb67.chunk.css.map",
+    "static/js/2.80f2fb77.chunk.js.LICENSE.txt": "/shape-css/static/js/2.80f2fb77.chunk.js.LICENSE.txt",
+    "static/media/Parallelogram.424a77eb.jpg": "/shape-css/static/media/Parallelogram.424a77eb.jpg",
+    "static/media/logo.6ce24c58.svg": "/shape-css/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa8f9998.js",
+    "static/js/runtime-main.5a5eb810.js",
     "static/js/2.80f2fb77.chunk.js",
     "static/css/main.78f9cb67.chunk.css",
     "static/js/main.39564eb4.chunk.js"
