@@ -1,4 +1,6 @@
-
+body {
+  background: #000000 !important
+}
 .con{
   display: grid;
   grid-template-columns: repeat(5,1fr);

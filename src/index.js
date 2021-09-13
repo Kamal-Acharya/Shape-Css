@@ -2,15 +2,16 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import pho1 from './download (1).png';
-import pho2 from './download (2).png';
-import pho7 from './download (4).png';
-import pho3 from './Parallelogram.jpg';
-import pho4 from './download.png';
-import pho5 from './VzNkQ.png';
-import pho6 from './oval.png';
-import pho8 from './download (5).png';
-import pho9 from './download (6).png';
+import pho1 from './circle1.png';
+import pho2 from './tri.png';
+import pho7 from './rectangle1.png';
+import pho3 from './parallelogram.png';
+import pho4 from './square.png';
+import pho5 from './semi.png';
+import pho6 from './oval1.png';
+import pho8 from './TRAPZ.png';
+import pho9 from './hexagon1.png';
+import pho10 from './penta.png';
 
 
 
@@ -100,7 +101,26 @@ ReactDOM.render(
       }"
        id="9"
         img={pho9}/>
-      <App title="Semicircle" val="ra" id="5" img={pho5}/>
+      <App title="Pentagon" 
+      val="   .pentagon {
+        position: relative;
+        width: 54px;
+        box-sizing: content-box;
+        border-width: 50px 18px 0;
+        border-style: solid;
+        border-color: red transparent;
+      }
+      .pentagon:before {
+        content: 
+        position: absolute;
+        height: 0;
+        width: 0;
+        top: -85px;
+        left: -18px;
+        border-width: 0 45px 35px;
+        border-style: solid;
+        border-color: transparent transparent red;
+      }" id="10" img={pho10}/>
 
       
   </ div>

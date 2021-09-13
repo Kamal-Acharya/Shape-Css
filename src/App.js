@@ -19,7 +19,7 @@ function App({title,val,id,img}) {
     <div  >
    <div class="box">
         <img src={img} alt="" />
-        <h4>{title}</h4>
+        <h2>{title}</h2>
         <input id={id} type="text" value={val} />
         <button onClick={() => myFunction(id)}>Copy</button>
     </div>
