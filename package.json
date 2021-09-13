@@ -15,7 +15,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://Kamal-Acharya.github.io/Shape-Css",
+  "homepage": "https://Kamal-Acharya.github.io/shape-css",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
