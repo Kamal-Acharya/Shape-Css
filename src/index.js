@@ -18,7 +18,7 @@ import pho10 from './penta.png';
 
 ReactDOM.render(
   <>
-  
+<h1><span>Shapes</span> <span>Using </span> <span>Css</span></h1>
   <div className="con">
       <App title="Circle" val=".circle {
   height: 50px;

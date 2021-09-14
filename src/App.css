@@ -11,13 +11,14 @@
   border: 1px solid #d4c113;
   border-radius: 4px;
   margin: 20px;
+  transition: all ease .3s;
   
 }
 .box img{
   height: 100px;
   width: 100px;
   margin-left:22%;
-  transition: all ease .3s;
+
 }
 input{
   visibility: hidden;
@@ -49,7 +50,7 @@ button {
    color: #fff;
    text-decoration: none;
  }
- .box img:hover{
+ .box:hover{
    transform: translateY(-20px);
  }
  @media (max-width:468px) {

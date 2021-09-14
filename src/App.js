@@ -1,5 +1,7 @@
 import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import { Route } from 'react-router-dom';
 function myFunction(id) {
   /* Get the text field */
   var copyText = document.getElementById(id);
@@ -17,6 +19,7 @@ function myFunction(id) {
 function App({title,val,id,img}) {
   return (
     <div  >
+
    <div class="box">
         <img src={img} alt="" />
         <h2>{title}</h2>

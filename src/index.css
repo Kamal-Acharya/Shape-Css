@@ -6,6 +6,24 @@ body {
   grid-template-columns: repeat(5,1fr);
  
 }
+h1{
+  text-align: center;
+   text-shadow: rgb(122, 121, 119) 1px 0 7px;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ 
+}
+span:nth-child(1)
+{
+  color: rgb(168, 8, 142);
+}
+span:nth-child(2)
+{
+  color: rgb(0, 255, 255);
+}
+span:nth-child(3)
+{
+  color: blue;
+}
 
 @media (max-width:768px) {
   .con{
